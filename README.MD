@@ -4,3 +4,4 @@ in this repository i'll uploading a list of all patters design that a learn and 
 List:
 
 * __Singleton Pattern__ shere a globla instance throughout our application
+* __Proxy Pattern__ intercept and control interactions to target object
