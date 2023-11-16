@@ -6,3 +6,4 @@ List:
 * __Singleton Pattern__   shere a globla instance throughout our application
 * __Proxy Pattern__       intercept and control interactions to target object
 * __Prototype Pattern__   shere properties among many object of the same type
+* __Flyweight Pattern__   save memory when we're creating a large number of similar objects
